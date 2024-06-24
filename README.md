@@ -1,5 +1,7 @@
 # kART-tutorial
 kinetic Activation-Relaxation Technique hands-on
+link of kART manual:(<https://kart-doc.readthedocs.io/en/latest/user_guide.html>) 
+
 # How to test kART rapidly with "docker"
 
 ## Prerequisites
