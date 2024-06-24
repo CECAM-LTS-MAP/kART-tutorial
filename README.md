@@ -1,4 +1,18 @@
 # kART-tutorial
+
+This tutorial shows how to use the kinetic Activation-Rexation Technique (kART). 
+
+## Conteent of the directory
+
+| File | Comment |
+| :--- | :--- |
+|README.md    | This file |  
+|Makefile.vm | Download this file to the Virtual Machine (usr/MAKE) to compile
+|Tutorial_new | Input files to run the examples
+|Tutorial_results | Fully run examples
+|kart-master.tar.gz | kART run plus examples
+
+
 kinetic Activation-Relaxation Technique hands-on
 link of kART manual:(<https://kart-doc.readthedocs.io/en/latest/user_guide.html>) 
 
