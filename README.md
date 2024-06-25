@@ -18,7 +18,7 @@ General document for kART can be found here: <https://kart-doc.readthedocs.io/en
 
 ## Installing the code on the Virtual Machinew
 
-The Virtual Machin contains a kART code ready to be compiled to compile it:
+The Virtual Machine contains a kART code ready to be compiled to compile it:
 
 1. Download the file `Makefile.vm`and put in into the `software/kart_tutorial/src/MAKE` directory.
 2. Compile the code with ` % make vm `
