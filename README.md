@@ -22,7 +22,10 @@ The Virtual Machin contains a kART code ready to be compiled to compile it:
 
 1. Download the file `Makefile.vm`and put in into the `software/kart_tutorial/src/MAKE` directory.
 2. Compile the code with ` % make vm `
-3. Download the `Tutorial_new.tgz`file and untar it in the `software/kart_tutorial` directory
+3. Download the `tutorial_new.tar.gz`file and untar it in the `software/kart_tutorial` directory with `% tar xzf tutorial_new.tar.gz`
+4. Move into the right directory: `% mv tutorial_new ~/software/kart_master`
+5. Install the csh shell : ` % sudo apt-get install csh`
+
 
 
 ## How to test kART rapidly with "docker"
