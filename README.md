@@ -16,7 +16,7 @@ This tutorial shows how to use the kinetic Activation-Rexation Technique (kART).
 
 General document for kART can be found here: <https://kart-doc.readthedocs.io/en/latest/user_guide.html>
 
-## Installing the code on the Virtual Machinew
+## Installing the code on the Virtual Machine
 
 The Virtual Machine contains a kART code ready to be compiled. However, a few things need to be done to compile it:
 
